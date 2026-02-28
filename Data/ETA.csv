@@ -1,0 +1,7 @@
+ownership;ship_to;ETA;
+IKPP;TKM;75;
+IKPP;IKS;15;
+IKS;TKM;90;
+IKS;IKPP;15;
+TKM;IKPP;75;
+TKM;IKS;90;
